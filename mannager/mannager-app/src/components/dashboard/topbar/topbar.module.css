@@ -1,0 +1,14 @@
+.topbar {
+	background-color: #1f1f2f !important;
+	box-shadow: none;
+}
+
+.toolbar {
+	display: flex;
+	justify-content: space-between;
+	padding: 0 1rem;
+}
+
+.title {
+	font-weight: bold;
+}

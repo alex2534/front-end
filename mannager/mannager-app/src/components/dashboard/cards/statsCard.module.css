@@ -1,0 +1,32 @@
+.card {
+	background-color: #2f2f44;
+	border-radius: 12px;
+	padding: 1rem;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 110px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+	font-size: 0.9rem;
+	color: #aaa;
+	margin-bottom: 4px;
+}
+
+.value {
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+
+.footer {
+	font-size: 0.8rem;
+	color: #7fffd4;
+	margin-top: 4px;
+}
+
+.red {
+	color: #f87171;
+}
